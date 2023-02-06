@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/interactive-number/static/css/main.95875218.css",
+    "main.js": "/interactive-number/static/js/main.edaf1483.js",
+    "static/media/SpaceGrotesk-Regular.ttf": "/interactive-number/static/media/SpaceGrotesk-Regular.67fa42510e26f5d4733d.ttf",
+    "static/media/SpaceGrotesk-Bold.ttf": "/interactive-number/static/media/SpaceGrotesk-Bold.96e001703fcc4898de0e.ttf",
+    "static/media/bg-main-desktop.png": "/interactive-number/static/media/bg-main-desktop.806e7aa7b4dbc1d78bc3.png",
+    "static/media/bg-card-back.png": "/interactive-number/static/media/bg-card-back.23f68fa3aa3d5b33dfc8.png",
+    "static/media/bg-card-front.png": "/interactive-number/static/media/bg-card-front.8153e2ca184402a8385f.png",
+    "static/media/bg-main-mobile.png": "/interactive-number/static/media/bg-main-mobile.caa4689407777a312ede.png",
+    "index.html": "/interactive-number/index.html",
+    "static/media/icon-complete.svg": "/interactive-number/static/media/icon-complete.8fd757c0c5c44b1d597ca411400e046d.svg",
+    "static/media/card-logo.svg": "/interactive-number/static/media/card-logo.8ca9036515954c3f8191559dce9c7bdf.svg",
+    "main.95875218.css.map": "/interactive-number/static/css/main.95875218.css.map",
+    "main.edaf1483.js.map": "/interactive-number/static/js/main.edaf1483.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95875218.css",
+    "static/js/main.edaf1483.js"
+  ]
+}
