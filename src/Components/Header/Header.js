@@ -7,7 +7,7 @@ const Header = ({ name, numberCard, month, year, cvc }) => {
     return (
         <header>
             <div className='back-card'>
-                <img loading='lazy'  className='img-card' src={backCardImg} alt="" />
+                <img className='img-card' src={backCardImg} alt="" />
                 <div className='cvc'>{cvc === '' ? '000' : cvc}</div>
             </div>
 
