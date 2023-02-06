@@ -1,13 +1,34 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+:root {
+  --LinearActiveInputBorder: linear-gradient(hsl(249, 99%, 64%), hsl(278, 94%, 30%));
+  --ErrorColor: hsl(0, 100%, 66%);
+  --White: hsl(0, 0%, 100%);
+  --LightGrayishViolet: hsl(270, 3%, 87%);
+  --DarkGrayishViolet: hsl(279, 6%, 55%);
+  --VeryDarkViolet: hsl(278, 68%, 11%);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+  font-family: 'SpaceGrotesk';
+  src: url('./assets/fonts/SpaceGrotesk-Regular.ttf');
+}
+@font-face {
+  font-family: 'SpaceGrotesk Bold';
+  src: url('./assets/fonts/SpaceGrotesk-Bold.ttf');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  font-family: 'SpaceGrotesk';
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
 }
